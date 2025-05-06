@@ -9,7 +9,7 @@
 
 class ComportamientoAuxiliar : public Comportamiento
 {
-
+  
 public:
   ComportamientoAuxiliar(unsigned int size = 0) : Comportamiento(size)
   {
